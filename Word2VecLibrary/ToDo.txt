@@ -1,0 +1,5 @@
+Download and use the dataset:
+1. wikipedia-pubmed-and-PMC-w2v.bin: https://bio.nlplab.org/
+2. GoogleNews-vectors-negative300.bin.gz
+      brew install wget
+      wget -c "https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz"
